@@ -1,0 +1,5 @@
+T, T, T, A, T,
+M, A, T, A, T,
+H, A, M, M, T,
+O, A, R, M, M,
+T, T, T, T, T,
